@@ -1,1 +1,1 @@
-# GoGreenApp
+# 3-Tier Structure
